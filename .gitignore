@@ -1,0 +1,16 @@
+# Unity 临时文件
+Temp/
+Library/
+obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# IDE
+.vs/
+*.csproj
+*.sln
+
+# Cursor 编辑器
+.cursor/
